@@ -1,0 +1,4 @@
+go to lua/autorun/server/eoti_targetid_sv.lua type in 
+      resource.AddFile("resource/fonts/SFDistantGalaxy.ttf")
+
+go to lua/hud/ and pick a file or copy paste one, then in the font section type in
